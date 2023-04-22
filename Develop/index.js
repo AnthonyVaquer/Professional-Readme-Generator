@@ -57,7 +57,7 @@ const questions = [
 {
     message: 'What is the license for your project?',
     type: 'list',
-    choices: ['a', 'b', 'c', 'none'],
+    choices: ['MIT', 'APL-1.0', 'CDDL-1.0', 'none'],
     name: 'license',
 }
 ];
