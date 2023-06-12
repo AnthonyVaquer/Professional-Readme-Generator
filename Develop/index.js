@@ -1,4 +1,4 @@
-// Imported required packages
+// Import required packages
 const fs = require('fs');
 const path = require('path');
 const inquirer = require('inquirer');
@@ -83,6 +83,5 @@ function init() {
     
 }
 
-// Function call to initialize app
 init();
 
